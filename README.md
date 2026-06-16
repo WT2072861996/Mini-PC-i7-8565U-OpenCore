@@ -2,6 +2,8 @@
 
 ![macOS](https://img.shields.io/badge/macOS-Sequoia-orange) ![OpenCore](https://img.shields.io/badge/OpenCore-1.0.4-blue) ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
+![关于本机](./Screenshot.png)
+
 适用于 Intel Core i7-8565U (Whiskey Lake-U) + UHD 620 迷你主机的黑苹果 OpenCore EFI 配置。
 
 > 主板信息为通用 OEM（DEFAULT DEFAULT STRING），可能适用于多种品牌（如 GMK NucBox、MOREFINE、BOSGAME 等白牌迷你主机），请根据实际硬件确认兼容性。
