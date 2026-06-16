@@ -128,3 +128,13 @@ USB 已通过 USBToolBox + UTBMap 定制映射。
 - [Acidanthera](https://github.com/acidanthera) 开发维护 OpenCore 及核心驱动
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) 提供详细的 OpenCore 安装指南
 - [USBToolBox](https://github.com/USBToolBox/tool) USB 定制工具
+
+---
+
+## 📄 许可证
+
+MIT License - 详见 [LICENSE](LICENSE)
+
+> ⚠️ 本教程仅供学习和研究使用
+
+
